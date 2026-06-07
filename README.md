@@ -1,5 +1,6 @@
 # EX-NO-2: IMPLEMENTATION OF PLAYFAIR CIPHER
-
+## NAME: LOKESH P
+## REG NO: 2305001015
  
 
 ## AIM:
@@ -114,6 +115,9 @@ int main() {
 
 
 ## Output:
+<img width="443" height="188" alt="image" src="https://github.com/user-attachments/assets/66def760-6b55-44a5-88d0-f64d01185303" />
+
+
 
 
 
